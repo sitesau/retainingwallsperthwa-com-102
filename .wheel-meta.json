@@ -1,0 +1,22 @@
+{
+  "wheel_id": 435,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-com-102",
+  "project": "retaining-walls-perth-checklist-f25c14996dae8a68b8aa9004503c33c",
+  "parent_t1_ref": "retainingwallsperthwa-com-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth checklist",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-perth-checklist-f25c14996dae8a68b8aa9004503c33c/",
+  "tier": "T2",
+  "writeback_nonce": "3d331f32a7ae9881",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallsperthwa-com-150/",
+      "anchor": "Retaining Walls Perth Suburb Guide: Suburb Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
